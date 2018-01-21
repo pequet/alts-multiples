@@ -1,5 +1,6 @@
 | Market | Days | Multiple | Notice | Time |
 | --- | --- | --- | --- | --- |
+| SYNX | 112 | 2 | ×2 since October 1, 2017 | 2018-01-21 09:23:14 |
 | ION | 112 | 2 | ×2 since October 1, 2017 | 2018-01-20 21:33:45 |
 | ARDR | 108 | 4 | ×4 since October 1, 2017 | 2018-01-17 23:49:37 |
 | ARDR | 108 | 3 | ×3 since October 1, 2017 | 2018-01-17 23:49:37 |
