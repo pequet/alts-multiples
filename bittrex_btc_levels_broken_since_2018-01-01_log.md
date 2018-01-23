@@ -1,5 +1,6 @@
 | Market | Days | Multiple | Notice | Time |
 | --- | --- | --- | --- | --- |
+| ANT | 22 | 2 | ×2 since January 1, 2018 | 2018-01-22 19:07:55 |
 | SYNX | 20 | 2 | ×2 since January 1, 2018 | 2018-01-21 09:23:35 |
 | ION | 20 | 2 | ×2 since January 1, 2018 | 2018-01-20 21:04:05 |
 | IOC | 14 | 2 | ×2 since January 1, 2018 | 2018-01-15 09:00:49 |
