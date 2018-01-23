@@ -1,5 +1,7 @@
 | Market | Days | Multiple | Notice | Time |
 | --- | --- | --- | --- | --- |
+| ANT | 83 | 3 | ×3 since November 1, 2017 | 2018-01-22 19:03:57 |
+| SYNX | 81 | 3 | ×3 since November 1, 2017 | 2018-01-21 09:21:23 |
 | ION | 81 | 4 | ×4 since November 1, 2017 | 2018-01-20 21:33:03 |
 | ION | 81 | 3 | ×3 since November 1, 2017 | 2018-01-20 21:02:46 |
 | XWC | 76 | 5 | ×5 since November 1, 2017 | 2018-01-17 23:48:56 |
