@@ -1,5 +1,6 @@
 | Market | Days | Multiple | Notice | Time |
 | --- | --- | --- | --- | --- |
+| ANT | 56 | 3 | ×3 since December 1, 2017 | 2018-01-25 19:02:51 |
 | STEEM | 55 | 6 | ×6 since December 1, 2017 | 2018-01-25 09:29:04 |
 | PIVX | 53 | 3 | ×3 since December 1, 2017 | 2018-01-22 22:13:24 |
 | ION | 51 | 5 | ×5 since December 1, 2017 | 2018-01-20 21:30:47 |
