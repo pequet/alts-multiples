@@ -1,5 +1,6 @@
 | Market | Days | Multiple | Notice | Time |
 | --- | --- | --- | --- | --- |
+| ADT | 118 | 2 | ×2 since October 1, 2017 | 2018-01-26 19:04:24 |
 | PIVX | 114 | 2 | ×2 since October 1, 2017 | 2018-01-22 22:28:21 |
 | SYNX | 112 | 2 | ×2 since October 1, 2017 | 2018-01-21 09:23:14 |
 | ION | 112 | 2 | ×2 since October 1, 2017 | 2018-01-20 21:33:45 |
