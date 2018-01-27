@@ -1,5 +1,6 @@
 | Market | Days | Multiple | Notice | Time |
 | --- | --- | --- | --- | --- |
+| ADT | 87 | 5 | ×5 since November 1, 2017 | 2018-01-26 19:06:17 |
 | SWT | 85 | 3 | ×3 since November 1, 2017 | 2018-01-24 15:43:03 |
 | PIVX | 83 | 3 | ×3 since November 1, 2017 | 2018-01-22 22:19:06 |
 | ANT | 83 | 3 | ×3 since November 1, 2017 | 2018-01-22 19:03:57 |
