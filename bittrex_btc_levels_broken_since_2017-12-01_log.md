@@ -1,5 +1,7 @@
 | Market | Days | Multiple | Notice | Time |
 | --- | --- | --- | --- | --- |
+| ADT | 57 | 12 | ×12 since December 1, 2017 | 2018-01-26 20:52:54 |
+| ADT | 57 | 11 | ×11 since December 1, 2017 | 2018-01-26 20:52:54 |
 | ADT | 57 | 10 | ×10 since December 1, 2017 | 2018-01-26 19:08:56 |
 | ADT | 57 | 9 | ×9 since December 1, 2017 | 2018-01-26 19:04:12 |
 | ANT | 56 | 3 | ×3 since December 1, 2017 | 2018-01-25 19:02:51 |
