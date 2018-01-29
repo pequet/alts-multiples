@@ -1,5 +1,6 @@
 | Market | Days | Multiple | Notice | Time |
 | --- | --- | --- | --- | --- |
+| BLOCK | 59 | 2 | ×2 since December 1, 2017 | 2018-01-29 08:02:21 |
 | SYNX | 58 | 4 | ×4 since December 1, 2017 | 2018-01-27 22:02:53 |
 | VIB | 58 | 5 | ×5 since December 1, 2017 | 2018-01-27 21:57:33 |
 | ADT | 57 | 12 | ×12 since December 1, 2017 | 2018-01-26 20:52:54 |
