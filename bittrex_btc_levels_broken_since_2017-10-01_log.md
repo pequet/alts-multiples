@@ -1,5 +1,6 @@
 | Market | Days | Multiple | Notice | Time |
 | --- | --- | --- | --- | --- |
+| AGRS | 121 | 4 | ×4 since October 1, 2017 | 2018-01-29 19:09:56 |
 | ADT | 118 | 2 | ×2 since October 1, 2017 | 2018-01-26 19:04:24 |
 | PIVX | 114 | 2 | ×2 since October 1, 2017 | 2018-01-22 22:28:21 |
 | SYNX | 112 | 2 | ×2 since October 1, 2017 | 2018-01-21 09:23:14 |
