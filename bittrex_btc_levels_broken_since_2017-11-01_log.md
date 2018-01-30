@@ -1,5 +1,6 @@
 | Market | Days | Multiple | Notice | Time |
 | --- | --- | --- | --- | --- |
+| AGRS | 90 | 7 | ×7 since November 1, 2017 | 2018-01-29 19:08:32 |
 | UBQ | 88 | 3 | ×3 since November 1, 2017 | 2018-01-27 22:27:04 |
 | ADT | 87 | 6 | ×6 since November 1, 2017 | 2018-01-26 20:55:04 |
 | ADT | 87 | 5 | ×5 since November 1, 2017 | 2018-01-26 19:06:17 |
