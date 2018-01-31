@@ -1,5 +1,7 @@
 | Market | Days | Multiple | Notice | Time |
 | --- | --- | --- | --- | --- |
+| LSK | 395 | 22 | ×22 since January 1, 2017 | 2018-01-31 01:01:28 |
+| LSK | 395 | 21 | ×21 since January 1, 2017 | 2018-01-31 01:01:28 |
 | LSK | 395 | 20 | ×20 since January 1, 2017 | 2018-01-31 00:56:46 |
 | LSK | 395 | 19 | ×19 since January 1, 2017 | 2018-01-31 00:56:46 |
 | LSK | 395 | 18 | ×18 since January 1, 2017 | 2018-01-31 00:52:05 |
