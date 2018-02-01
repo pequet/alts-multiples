@@ -1,5 +1,6 @@
 | Market | Days | Multiple | Notice | Time |
 | --- | --- | --- | --- | --- |
+| BNT | 92 | 3 | ×3 since November 1, 2017 | 2018-02-01 08:52:43 |
 | LSK | 91 | 5 | ×5 since November 1, 2017 | 2018-01-31 01:05:02 |
 | LSK | 91 | 4 | ×4 since November 1, 2017 | 2018-01-31 00:54:05 |
 | AGRS | 90 | 7 | ×7 since November 1, 2017 | 2018-01-29 19:08:32 |
