@@ -1,5 +1,6 @@
 | Market | Days | Multiple | Notice | Time |
 | --- | --- | --- | --- | --- |
+| ETH | 31 | 2 | ×2 since January 1, 2018 | 2018-01-31 22:12:07 |
 | LSK | 30 | 2 | ×2 since January 1, 2018 | 2018-01-31 01:03:00 |
 | ADT | 26 | 4 | ×4 since January 1, 2018 | 2018-01-26 20:53:58 |
 | ADT | 26 | 3 | ×3 since January 1, 2018 | 2018-01-26 19:00:26 |
