@@ -1,5 +1,6 @@
 | Market | Days | Multiple | Notice | Time |
 | --- | --- | --- | --- | --- |
+| ZEN | 129 | 3 | ×3 since October 1, 2017 | 2018-02-07 13:21:36 |
 | LSK | 122 | 2 | ×2 since October 1, 2017 | 2018-01-31 00:49:45 |
 | AGRS | 121 | 4 | ×4 since October 1, 2017 | 2018-01-29 19:09:56 |
 | ADT | 118 | 2 | ×2 since October 1, 2017 | 2018-01-26 19:04:24 |
