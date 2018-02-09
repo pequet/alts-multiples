@@ -1,5 +1,6 @@
 | Market | Days | Multiple | Notice | Time |
 | --- | --- | --- | --- | --- |
+| SWIFT | 40 | 2 | ×2 since January 1, 2018 | 2018-02-09 18:29:18 |
 | NBT | 36 | 2 | ×2 since January 1, 2018 | 2018-02-05 20:45:37 |
 | BNT | 31 | 2 | ×2 since January 1, 2018 | 2018-02-01 08:45:42 |
 | ETH | 31 | 2 | ×2 since January 1, 2018 | 2018-01-31 22:12:07 |
