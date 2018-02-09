@@ -1,5 +1,6 @@
 | Market | Days | Multiple | Notice | Time |
 | --- | --- | --- | --- | --- |
+| SWIFT | 71 | 2 | ×2 since December 1, 2017 | 2018-02-09 18:31:54 |
 | LSK | 61 | 4 | ×4 since December 1, 2017 | 2018-01-31 00:57:32 |
 | BLOCK | 59 | 2 | ×2 since December 1, 2017 | 2018-01-29 08:02:21 |
 | SYNX | 58 | 4 | ×4 since December 1, 2017 | 2018-01-27 22:02:53 |
