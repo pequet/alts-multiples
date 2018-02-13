@@ -1,5 +1,6 @@
 | Market | Days | Multiple | Notice | Time |
 | --- | --- | --- | --- | --- |
+| ZCL | 408 | 44 | ×44 since January 1, 2017 | 2018-02-13 12:03:09 |
 | ZCL | 408 | 43 | ×43 since January 1, 2017 | 2018-02-13 12:00:44 |
 | ZCL | 408 | 42 | ×42 since January 1, 2017 | 2018-02-13 11:33:39 |
 | ZCL | 408 | 41 | ×41 since January 1, 2017 | 2018-02-13 11:18:09 |
