@@ -1,5 +1,8 @@
 | Market | Days | Multiple | Notice | Time |
 | --- | --- | --- | --- | --- |
+| ZCL | 104 | 67 | ×67 since November 1, 2017 | 2018-02-13 11:19:47 |
+| ZCL | 104 | 66 | ×66 since November 1, 2017 | 2018-02-13 11:19:47 |
+| ZCL | 104 | 65 | ×65 since November 1, 2017 | 2018-02-13 11:19:47 |
 | SYNX | 98 | 4 | ×4 since November 1, 2017 | 2018-02-07 08:01:08 |
 | BNT | 92 | 3 | ×3 since November 1, 2017 | 2018-02-01 08:52:43 |
 | LSK | 91 | 5 | ×5 since November 1, 2017 | 2018-01-31 01:05:02 |
