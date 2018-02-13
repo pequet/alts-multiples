@@ -1,5 +1,8 @@
 | Market | Days | Multiple | Notice | Time |
 | --- | --- | --- | --- | --- |
+| ZCL | 74 | 87 | ×87 since December 1, 2017 | 2018-02-13 11:22:47 |
+| ZCL | 74 | 86 | ×86 since December 1, 2017 | 2018-02-13 11:22:47 |
+| ZCL | 74 | 85 | ×85 since December 1, 2017 | 2018-02-13 11:22:47 |
 | CRW | 73 | 3 | ×3 since December 1, 2017 | 2018-02-12 10:03:00 |
 | SWIFT | 71 | 2 | ×2 since December 1, 2017 | 2018-02-09 18:31:54 |
 | LSK | 61 | 4 | ×4 since December 1, 2017 | 2018-01-31 00:57:32 |
