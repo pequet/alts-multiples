@@ -1,5 +1,6 @@
 | Market | Days | Multiple | Notice | Time |
 | --- | --- | --- | --- | --- |
+| ZCL | 104 | 68 | ×68 since November 1, 2017 | 2018-02-13 11:37:44 |
 | ZCL | 104 | 67 | ×67 since November 1, 2017 | 2018-02-13 11:19:47 |
 | ZCL | 104 | 66 | ×66 since November 1, 2017 | 2018-02-13 11:19:47 |
 | ZCL | 104 | 65 | ×65 since November 1, 2017 | 2018-02-13 11:19:47 |
