@@ -1,5 +1,6 @@
 | Market | Days | Multiple | Notice | Time |
 | --- | --- | --- | --- | --- |
+| BITB | 114 | 7 | ×7 since November 1, 2017 | 2018-02-22 19:46:40 |
 | LTC | 105 | 3 | ×3 since November 1, 2017 | 2018-02-14 08:54:45 |
 | ZCL | 105 | 79 | ×79 since November 1, 2017 | 2018-02-14 05:26:04 |
 | ZCL | 105 | 78 | ×78 since November 1, 2017 | 2018-02-14 05:19:57 |
