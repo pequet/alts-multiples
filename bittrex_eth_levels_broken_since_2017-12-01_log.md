@@ -1,5 +1,6 @@
 | Market | Days | Multiple | Notice | Time |
 | --- | --- | --- | --- | --- |
+| NEO | 88 | 2 | ×2 since December 1, 2017 | 2018-02-26 22:23:11 |
 | ADT | 57 | 5 | ×5 since December 1, 2017 | 2018-01-26 20:55:11 |
 | LGD | 46 | 513 | ×513 since December 1, 2017 | 2018-01-17 23:47:16 |
 | LGD | 46 | 512 | ×512 since December 1, 2017 | 2018-01-17 23:47:16 |
