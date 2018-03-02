@@ -1,5 +1,6 @@
 | Market | Days | Multiple | Notice | Time |
 | --- | --- | --- | --- | --- |
+| SLS | 60 | 2 | ×2 since January 1, 2018 | 2018-03-02 00:47:21 |
 | SWIFT | 40 | 2 | ×2 since January 1, 2018 | 2018-02-09 18:29:18 |
 | NBT | 36 | 2 | ×2 since January 1, 2018 | 2018-02-05 20:45:37 |
 | BNT | 31 | 2 | ×2 since January 1, 2018 | 2018-02-01 08:45:42 |
