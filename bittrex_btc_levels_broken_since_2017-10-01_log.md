@@ -1,5 +1,6 @@
 | Market | Days | Multiple | Notice | Time |
 | --- | --- | --- | --- | --- |
+| VIA | 157 | 2 | ×2 since October 1, 2017 | 2018-03-07 10:26:36 |
 | ZCL | 136 | 39 | ×39 since October 1, 2017 | 2018-02-14 05:23:58 |
 | ZCL | 136 | 38 | ×38 since October 1, 2017 | 2018-02-14 03:46:01 |
 | ZCL | 136 | 37 | ×37 since October 1, 2017 | 2018-02-13 19:59:21 |
