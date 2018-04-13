@@ -1,5 +1,6 @@
 | Market | Days | Multiple | Notice | Time |
 | --- | --- | --- | --- | --- |
+| GNT | 194 | 4 | ×4 since October 1, 2017 | 2018-04-13 05:18:52 |
 | GNT | 194 | 3 | ×3 since October 1, 2017 | 2018-04-13 05:10:36 |
 | GNT | 194 | 2 | ×2 since October 1, 2017 | 2018-04-13 05:10:36 |
 | LGD | 107 | 276 | ×276 since October 1, 2017 | 2018-01-17 23:46:29 |
