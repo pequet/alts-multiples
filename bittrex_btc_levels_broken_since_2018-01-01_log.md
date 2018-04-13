@@ -1,5 +1,7 @@
 | Market | Days | Multiple | Notice | Time |
 | --- | --- | --- | --- | --- |
+| GNT | 102 | 3 | ×3 since January 1, 2018 | 2018-04-13 05:14:19 |
+| GNT | 102 | 2 | ×2 since January 1, 2018 | 2018-04-13 05:14:19 |
 | SLS | 60 | 2 | ×2 since January 1, 2018 | 2018-03-02 00:47:21 |
 | SWIFT | 40 | 2 | ×2 since January 1, 2018 | 2018-02-09 18:29:18 |
 | NBT | 36 | 2 | ×2 since January 1, 2018 | 2018-02-05 20:45:37 |
