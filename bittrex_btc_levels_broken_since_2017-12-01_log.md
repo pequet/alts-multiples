@@ -1,5 +1,9 @@
 | Market | Days | Multiple | Notice | Time |
 | --- | --- | --- | --- | --- |
+| GNT | 133 | 7 | ×7 since December 1, 2017 | 2018-04-13 05:16:58 |
+| GNT | 133 | 6 | ×6 since December 1, 2017 | 2018-04-13 05:16:58 |
+| GNT | 133 | 5 | ×5 since December 1, 2017 | 2018-04-13 05:16:58 |
+| GNT | 133 | 4 | ×4 since December 1, 2017 | 2018-04-13 05:16:58 |
 | KORE | 93 | 2 | ×2 since December 1, 2017 | 2018-03-03 19:04:16 |
 | ZCL | 75 | 103 | ×103 since December 1, 2017 | 2018-02-14 07:03:22 |
 | ZCL | 75 | 102 | ×102 since December 1, 2017 | 2018-02-14 05:22:56 |
