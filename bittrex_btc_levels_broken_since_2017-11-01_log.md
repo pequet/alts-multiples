@@ -1,5 +1,9 @@
 | Market | Days | Multiple | Notice | Time |
 | --- | --- | --- | --- | --- |
+| GNT | 163 | 6 | ×6 since November 1, 2017 | 2018-04-13 05:14:57 |
+| GNT | 163 | 5 | ×5 since November 1, 2017 | 2018-04-13 05:14:57 |
+| GNT | 163 | 4 | ×4 since November 1, 2017 | 2018-04-13 05:14:57 |
+| GNT | 163 | 3 | ×3 since November 1, 2017 | 2018-04-13 05:14:57 |
 | VIA | 126 | 2 | ×2 since November 1, 2017 | 2018-03-07 10:23:52 |
 | BITB | 114 | 7 | ×7 since November 1, 2017 | 2018-02-22 19:46:40 |
 | LTC | 105 | 3 | ×3 since November 1, 2017 | 2018-02-14 08:54:45 |
