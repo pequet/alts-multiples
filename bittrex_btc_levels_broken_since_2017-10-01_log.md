@@ -1,5 +1,7 @@
 | Market | Days | Multiple | Notice | Time |
 | --- | --- | --- | --- | --- |
+| GNT | 194 | 3 | ×3 since October 1, 2017 | 2018-04-13 05:17:32 |
+| GNT | 194 | 2 | ×2 since October 1, 2017 | 2018-04-13 05:17:32 |
 | VIA | 157 | 2 | ×2 since October 1, 2017 | 2018-03-07 10:26:36 |
 | ZCL | 136 | 39 | ×39 since October 1, 2017 | 2018-02-14 05:23:58 |
 | ZCL | 136 | 38 | ×38 since October 1, 2017 | 2018-02-14 03:46:01 |
