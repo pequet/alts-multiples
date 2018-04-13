@@ -1,5 +1,8 @@
 | Market | Days | Multiple | Notice | Time |
 | --- | --- | --- | --- | --- |
+| GNT | 133 | 5 | ×5 since December 1, 2017 | 2018-04-13 05:17:02 |
+| GNT | 133 | 4 | ×4 since December 1, 2017 | 2018-04-13 05:17:02 |
+| GNT | 133 | 3 | ×3 since December 1, 2017 | 2018-04-13 05:17:02 |
 | NEO | 88 | 2 | ×2 since December 1, 2017 | 2018-02-26 22:23:11 |
 | ADT | 57 | 5 | ×5 since December 1, 2017 | 2018-01-26 20:55:11 |
 | LGD | 46 | 513 | ×513 since December 1, 2017 | 2018-01-17 23:47:16 |
