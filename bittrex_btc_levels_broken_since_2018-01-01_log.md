@@ -1,5 +1,6 @@
 | Market | Days | Multiple | Notice | Time |
 | --- | --- | --- | --- | --- |
+| GRS | 107 | 2 | ×2 since January 1, 2018 | 2018-04-17 18:15:44 |
 | GNT | 102 | 3 | ×3 since January 1, 2018 | 2018-04-13 05:14:19 |
 | GNT | 102 | 2 | ×2 since January 1, 2018 | 2018-04-13 05:14:19 |
 | SLS | 60 | 2 | ×2 since January 1, 2018 | 2018-03-02 00:47:21 |
