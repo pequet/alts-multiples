@@ -1,5 +1,7 @@
 | Market | Days | Multiple | Notice | Time |
 | --- | --- | --- | --- | --- |
+| GRS | 472 | 167 | ×167 since January 1, 2017 | 2018-04-17 17:57:25 |
+| GRS | 472 | 166 | ×166 since January 1, 2017 | 2018-04-17 17:57:25 |
 | LTC | 409 | 5 | ×5 since January 1, 2017 | 2018-02-14 06:20:20 |
 | ZCL | 409 | 49 | ×49 since January 1, 2017 | 2018-02-14 05:50:31 |
 | ZCL | 409 | 48 | ×48 since January 1, 2017 | 2018-02-14 05:00:40 |
