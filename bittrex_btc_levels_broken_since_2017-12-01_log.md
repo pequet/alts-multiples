@@ -1,5 +1,6 @@
 | Market | Days | Multiple | Notice | Time |
 | --- | --- | --- | --- | --- |
+| GRS | 138 | 4 | ×4 since December 1, 2017 | 2018-04-17 18:17:17 |
 | GRS | 138 | 3 | ×3 since December 1, 2017 | 2018-04-17 17:51:07 |
 | GNT | 133 | 7 | ×7 since December 1, 2017 | 2018-04-13 05:16:58 |
 | GNT | 133 | 6 | ×6 since December 1, 2017 | 2018-04-13 05:16:58 |
