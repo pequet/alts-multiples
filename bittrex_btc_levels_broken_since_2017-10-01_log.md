@@ -1,5 +1,6 @@
 | Market | Days | Multiple | Notice | Time |
 | --- | --- | --- | --- | --- |
+| GRS | 199 | 8 | ×8 since October 1, 2017 | 2018-04-17 18:15:17 |
 | GRS | 199 | 7 | ×7 since October 1, 2017 | 2018-04-17 18:06:37 |
 | GNT | 194 | 3 | ×3 since October 1, 2017 | 2018-04-13 05:17:32 |
 | GNT | 194 | 2 | ×2 since October 1, 2017 | 2018-04-13 05:17:32 |
