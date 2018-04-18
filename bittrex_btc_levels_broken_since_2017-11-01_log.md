@@ -1,5 +1,11 @@
 | Market | Days | Multiple | Notice | Time |
 | --- | --- | --- | --- | --- |
+| EMC | 168 | 15 | ×15 since November 1, 2017 | 2018-04-18 05:05:26 |
+| EMC | 168 | 14 | ×14 since November 1, 2017 | 2018-04-18 05:05:26 |
+| EMC | 168 | 13 | ×13 since November 1, 2017 | 2018-04-18 05:05:26 |
+| EMC | 168 | 12 | ×12 since November 1, 2017 | 2018-04-18 05:05:26 |
+| EMC | 168 | 11 | ×11 since November 1, 2017 | 2018-04-18 05:05:26 |
+| EMC | 168 | 10 | ×10 since November 1, 2017 | 2018-04-18 05:05:26 |
 | CLOAK | 168 | 4 | ×4 since November 1, 2017 | 2018-04-18 02:28:32 |
 | GNT | 163 | 6 | ×6 since November 1, 2017 | 2018-04-13 05:14:57 |
 | GNT | 163 | 5 | ×5 since November 1, 2017 | 2018-04-13 05:14:57 |
