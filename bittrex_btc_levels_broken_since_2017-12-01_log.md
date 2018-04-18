@@ -1,5 +1,7 @@
 | Market | Days | Multiple | Notice | Time |
 | --- | --- | --- | --- | --- |
+| EMC | 138 | 13 | ×13 since December 1, 2017 | 2018-04-18 05:12:04 |
+| EMC | 138 | 12 | ×12 since December 1, 2017 | 2018-04-18 05:12:04 |
 | EMC | 138 | 11 | ×11 since December 1, 2017 | 2018-04-18 05:03:54 |
 | EMC | 138 | 10 | ×10 since December 1, 2017 | 2018-04-18 05:03:54 |
 | EMC | 138 | 9 | ×9 since December 1, 2017 | 2018-04-18 05:03:54 |
