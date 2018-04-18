@@ -1,5 +1,11 @@
 | Market | Days | Multiple | Notice | Time |
 | --- | --- | --- | --- | --- |
+| EMC | 168 | 21 | ×21 since November 1, 2017 | 2018-04-18 05:14:00 |
+| EMC | 168 | 20 | ×20 since November 1, 2017 | 2018-04-18 05:14:00 |
+| EMC | 168 | 19 | ×19 since November 1, 2017 | 2018-04-18 05:14:00 |
+| EMC | 168 | 18 | ×18 since November 1, 2017 | 2018-04-18 05:14:00 |
+| EMC | 168 | 17 | ×17 since November 1, 2017 | 2018-04-18 05:14:00 |
+| EMC | 168 | 16 | ×16 since November 1, 2017 | 2018-04-18 05:14:00 |
 | EMC | 168 | 15 | ×15 since November 1, 2017 | 2018-04-18 05:05:26 |
 | EMC | 168 | 14 | ×14 since November 1, 2017 | 2018-04-18 05:05:26 |
 | EMC | 168 | 13 | ×13 since November 1, 2017 | 2018-04-18 05:05:26 |
