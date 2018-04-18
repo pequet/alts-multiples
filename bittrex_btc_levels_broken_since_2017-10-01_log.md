@@ -1,5 +1,8 @@
 | Market | Days | Multiple | Notice | Time |
 | --- | --- | --- | --- | --- |
+| EMC | 199 | 10 | ×10 since October 1, 2017 | 2018-04-18 05:15:06 |
+| EMC | 199 | 9 | ×9 since October 1, 2017 | 2018-04-18 05:15:06 |
+| EMC | 199 | 8 | ×8 since October 1, 2017 | 2018-04-18 05:15:06 |
 | EMC | 199 | 7 | ×7 since October 1, 2017 | 2018-04-18 05:06:32 |
 | EMC | 199 | 6 | ×6 since October 1, 2017 | 2018-04-18 05:06:32 |
 | EMC | 199 | 5 | ×5 since October 1, 2017 | 2018-04-18 05:06:32 |
