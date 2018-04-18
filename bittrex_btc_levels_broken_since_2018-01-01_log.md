@@ -1,5 +1,7 @@
 | Market | Days | Multiple | Notice | Time |
 | --- | --- | --- | --- | --- |
+| EMC | 107 | 5 | ×5 since January 1, 2018 | 2018-04-18 05:10:10 |
+| EMC | 107 | 4 | ×4 since January 1, 2018 | 2018-04-18 05:10:10 |
 | GRS | 107 | 2 | ×2 since January 1, 2018 | 2018-04-17 18:15:44 |
 | GNT | 102 | 3 | ×3 since January 1, 2018 | 2018-04-13 05:14:19 |
 | GNT | 102 | 2 | ×2 since January 1, 2018 | 2018-04-13 05:14:19 |
