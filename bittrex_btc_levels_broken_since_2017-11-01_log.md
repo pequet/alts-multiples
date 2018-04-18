@@ -1,5 +1,6 @@
 | Market | Days | Multiple | Notice | Time |
 | --- | --- | --- | --- | --- |
+| CLOAK | 168 | 4 | ×4 since November 1, 2017 | 2018-04-18 02:28:32 |
 | GNT | 163 | 6 | ×6 since November 1, 2017 | 2018-04-13 05:14:57 |
 | GNT | 163 | 5 | ×5 since November 1, 2017 | 2018-04-13 05:14:57 |
 | GNT | 163 | 4 | ×4 since November 1, 2017 | 2018-04-13 05:14:57 |
