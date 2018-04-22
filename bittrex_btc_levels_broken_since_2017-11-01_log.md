@@ -1,5 +1,7 @@
 | Market | Days | Multiple | Notice | Time |
 | --- | --- | --- | --- | --- |
+| MANA | 173 | 15 | ×15 since November 1, 2017 | 2018-04-22 17:59:31 |
+| MANA | 173 | 14 | ×14 since November 1, 2017 | 2018-04-22 17:59:31 |
 | MANA | 173 | 13 | ×13 since November 1, 2017 | 2018-04-22 17:50:40 |
 | MCO | 169 | 2 | ×2 since November 1, 2017 | 2018-04-19 01:04:16 |
 | EMC | 168 | 23 | ×23 since November 1, 2017 | 2018-04-18 05:22:23 |
