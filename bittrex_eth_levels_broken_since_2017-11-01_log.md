@@ -1,5 +1,6 @@
 | Market | Days | Multiple | Notice | Time |
 | --- | --- | --- | --- | --- |
+| MANA | 173 | 8 | ×8 since November 1, 2017 | 2018-04-22 17:46:46 |
 | GNT | 163 | 4 | ×4 since November 1, 2017 | 2018-04-13 05:19:21 |
 | GNT | 163 | 3 | ×3 since November 1, 2017 | 2018-04-13 05:11:01 |
 | GNT | 163 | 2 | ×2 since November 1, 2017 | 2018-04-13 05:11:01 |
