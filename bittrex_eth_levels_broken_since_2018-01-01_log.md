@@ -1,5 +1,6 @@
 | Market | Days | Multiple | Notice | Time |
 | --- | --- | --- | --- | --- |
+| MANA | 112 | 2 | ×2 since January 1, 2018 | 2018-04-22 17:45:26 |
 | MCO | 108 | 2 | ×2 since January 1, 2018 | 2018-04-19 01:43:42 |
 | GNT | 102 | 2 | ×2 since January 1, 2018 | 2018-04-13 05:18:28 |
 | LGD | 15 | 511 | ×511 since January 1, 2018 | 2018-01-17 23:48:24 |
