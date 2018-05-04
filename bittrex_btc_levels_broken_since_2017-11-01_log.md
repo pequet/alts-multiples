@@ -1,5 +1,6 @@
 | Market | Days | Multiple | Notice | Time |
 | --- | --- | --- | --- | --- |
+| DCR | 184 | 3 | ×3 since November 1, 2017 | 2018-05-04 02:17:43 |
 | MANA | 173 | 15 | ×15 since November 1, 2017 | 2018-04-22 17:59:31 |
 | MANA | 173 | 14 | ×14 since November 1, 2017 | 2018-04-22 17:59:31 |
 | MANA | 173 | 13 | ×13 since November 1, 2017 | 2018-04-22 17:50:40 |
