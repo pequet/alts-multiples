@@ -1,5 +1,6 @@
 | Market | Days | Multiple | Notice | Time |
 | --- | --- | --- | --- | --- |
+| REP | 130 | 2 | ×2 since January 1, 2018 | 2018-05-11 03:35:46 |
 | MANA  | 112 | 3 | ×3 since January 1, 2018 | 2018-04-22 18:00:25 |
 | MCO | 108 | 2 | ×2 since January 1, 2018 | 2018-04-19 01:43:03 |
 | EMC | 107 | 7 | ×7 since January 1, 2018 | 2018-04-18 05:18:39 |
