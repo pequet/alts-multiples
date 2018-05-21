@@ -1,5 +1,8 @@
 | Market | Days | Multiple | Notice | Time |
 | --- | --- | --- | --- | --- |
+| FCT | 92 | 2 | ×2 since October 1, 2017 | 2018-05-21 19:48:14 |
+| DCR | 215 | 2 | ×2 since October 1, 2017 | 2018-05-21 19:45:09 |
+| LTC | 137 | 2 | ×2 since October 1, 2017 | 2018-05-21 19:33:49 |
 | EMC | 199 | 10 | ×10 since October 1, 2017 | 2018-04-18 05:15:06 |
 | EMC | 199 | 9 | ×9 since October 1, 2017 | 2018-04-18 05:15:06 |
 | EMC | 199 | 8 | ×8 since October 1, 2017 | 2018-04-18 05:15:06 |
