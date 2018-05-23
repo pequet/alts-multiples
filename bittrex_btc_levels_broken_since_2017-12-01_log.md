@@ -1,5 +1,6 @@
 | Market | Days | Multiple | Notice | Time |
 | --- | --- | --- | --- | --- |
+| ZEN | 173 | 2 | ×2 since December 1, 2017 | 2018-05-23 03:22:16 |
 | REP | 161 | 5 | ×5 since December 1, 2017 | 2018-05-11 03:38:24 |
 | DCR | 145 | 2 | ×2 since December 1, 2017 | 2018-04-24 22:33:25 |
 | MANA | 143 | 16 | ×16 since December 1, 2017 | 2018-04-22 17:55:26 |
@@ -144,12 +145,8 @@
 | MANA | 39 | 12 | ×12 since December 1, 2017 | 2018-01-09 02:28:23 |
 | GAME | 39 | 2 | ×2 since December 1, 2017 | 2018-01-08 20:19:00 |
 | VIA | 39 | 3 | ×3 since December 1, 2017 | 2018-01-08 20:01:20 |
-| MYST | 39 | 7 | ×7 since December 1, 2017 | 2018-01-08 19:32:47 |
 | 1ST | 39 | 4 | ×4 since December 1, 2017 | 2018-01-08 19:16:39 |
-| MYST | 39 | 6 | ×6 since December 1, 2017 | 2018-01-08 19:05:16 |
-| MYST | 39 | 5 | ×5 since December 1, 2017 | 2018-01-08 19:05:16 |
 | START | 39 | 5 | ×5 since December 1, 2017 | 2018-01-08 18:54:14 |
-| MYST | 39 | 4 | ×4 since December 1, 2017 | 2018-01-08 17:51:01 |
 | EBST | 39 | 9 | ×9 since December 1, 2017 | 2018-01-08 15:25:48 |
 | EMC | 39 | 3 | ×3 since December 1, 2017 | 2018-01-08 14:18:20 |
 | PKB | 38 | 2 | ×2 since December 1, 2017 | 2018-01-08 13:03:16 |
