@@ -1,5 +1,17 @@
 | Market | Days | Multiple | Notice | Time |
 | --- | --- | --- | --- | --- |
+| BITS | 80 | 14 | ×14 since January 1, 2017 | 2018-06-21 00:20:39 |
+| BITS | 80 | 13 | ×13 since January 1, 2017 | 2018-06-21 00:20:39 |
+| BITS | 80 | 12 | ×12 since January 1, 2017 | 2018-06-21 00:20:39 |
+| BITS | 80 | 11 | ×11 since January 1, 2017 | 2018-06-21 00:20:39 |
+| BITS | 80 | 10 | ×10 since January 1, 2017 | 2018-06-21 00:20:39 |
+| BITS | 80 | 9 | ×9 since January 1, 2017 | 2018-06-21 00:20:39 |
+| BITS | 80 | 8 | ×8 since January 1, 2017 | 2018-06-21 00:20:39 |
+| BITS | 80 | 7 | ×7 since January 1, 2017 | 2018-06-21 00:20:39 |
+| BITS | 80 | 6 | ×6 since January 1, 2017 | 2018-06-21 00:20:39 |
+| BITS | 80 | 5 | ×5 since January 1, 2017 | 2018-06-21 00:20:39 |
+| BITS | 80 | 4 | ×4 since January 1, 2017 | 2018-06-21 00:20:39 |
+| BITS | 80 | 3 | ×3 since January 1, 2017 | 2018-06-21 00:20:39 |
 | EMC | 472 | 9 | ×9 since January 1, 2017 | 2018-04-18 05:15:21 |
 | EMC | 472 | 8 | ×8 since January 1, 2017 | 2018-04-18 05:15:21 |
 | EMC | 472 | 7 | ×7 since January 1, 2017 | 2018-04-18 05:15:21 |
