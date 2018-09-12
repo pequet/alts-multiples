@@ -1,5 +1,7 @@
 | Market | Days | Multiple | Notice | Time |
 | --- | --- | --- | --- | --- |
+| XLM | 331 | 25 | ×25 since October 1, 2017 | 2018-09-12 00:27:41 |
+| XLM | 331 | 24 | ×24 since October 1, 2017 | 2018-09-12 00:27:41 |
 | GNT | 194 | 4 | ×4 since October 1, 2017 | 2018-04-13 05:18:52 |
 | GNT | 194 | 3 | ×3 since October 1, 2017 | 2018-04-13 05:10:36 |
 | GNT | 194 | 2 | ×2 since October 1, 2017 | 2018-04-13 05:10:36 |
