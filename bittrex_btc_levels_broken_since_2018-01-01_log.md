@@ -1,5 +1,11 @@
 | Market | Days | Multiple | Notice | Time |
 | --- | --- | --- | --- | --- |
+| TIX | 243 | 3 | ×3 since January 1, 2018 | 2018-09-16 14:01:55 |
+| CRW | 42 | 2 | ×2 since January 1, 2018 | 2018-05-21 19:33:52 |
+| BRX | 5 | 2 | ×2 since January 1, 2018 | 2018-05-21 19:32:11 |
+| DCR | 123 | 2 | ×2 since January 1, 2018 | 2018-05-21 19:18:46 |
+| QWARK | 6 | 2 | ×2 since January 1, 2018 | 2018-05-21 19:18:43 |
+| BSD | 10 | 2 | ×2 since January 1, 2018 | 2018-05-21 19:17:42 |
 | REP | 130 | 2 | ×2 since January 1, 2018 | 2018-05-11 03:35:46 |
 | MANA  | 112 | 3 | ×3 since January 1, 2018 | 2018-04-22 18:00:25 |
 | MCO | 108 | 2 | ×2 since January 1, 2018 | 2018-04-19 01:43:03 |
@@ -50,7 +56,6 @@
 | EBST | 8 | 5 | ×5 since January 1, 2018 | 2018-01-09 05:34:30 |
 | PKB | 8 | 2 | ×2 since January 1, 2018 | 2018-01-08 23:22:28 |
 | 1ST | 8 | 2 | ×2 since January 1, 2018 | 2018-01-08 19:16:28 |
-| MYST | 8 | 2 | ×2 since January 1, 2018 | 2018-01-08 19:05:22 |
 | EBST | 8 | 4 | ×4 since January 1, 2018 | 2018-01-08 15:49:06 |
 | MUSIC | 8 | 2 | ×2 since January 1, 2018 | 2018-01-08 15:06:40 |
 | BRK | 7 | 2 | ×2 since January 1, 2018 | 2018-01-08 02:00:32 |
