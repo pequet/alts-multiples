@@ -1,5 +1,8 @@
 | Market | Days | Multiple | Notice | Time |
 | --- | --- | --- | --- | --- |
+| TIX | 274 | 8 | ×8 since December 1, 2017 | 2018-09-16 18:36:02 |
+| TIX | 274 | 7 | ×7 since December 1, 2017 | 2018-09-16 18:36:02 |
+| TIX | 274 | 6 | ×6 since December 1, 2017 | 2018-09-16 18:36:02 |
 | ZEN | 173 | 2 | ×2 since December 1, 2017 | 2018-05-23 03:22:16 |
 | REP | 161 | 5 | ×5 since December 1, 2017 | 2018-05-11 03:38:24 |
 | DCR | 145 | 2 | ×2 since December 1, 2017 | 2018-04-24 22:33:25 |
