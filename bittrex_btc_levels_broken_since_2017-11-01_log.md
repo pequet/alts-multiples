@@ -1,5 +1,11 @@
 | Market | Days | Multiple | Notice | Time |
 | --- | --- | --- | --- | --- |
+| TIX | 304 | 10 | ×10 since November 1, 2017 | 2018-09-16 12:01:19 |
+| TIX | 304 | 9 | ×9 since November 1, 2017 | 2018-09-16 12:01:19 |
+| TIX | 304 | 8 | ×8 since November 1, 2017 | 2018-09-16 12:01:19 |
+| TIX | 304 | 7 | ×7 since November 1, 2017 | 2018-09-16 12:01:19 |
+| RISE | 57 | 2 | ×2 since November 1, 2017 | 2018-05-21 19:32:23 |
+| CLAM | 68 | 2 | ×2 since November 1, 2017 | 2018-05-21 19:30:41 |
 | REP | 191 | 5 | ×5 since November 1, 2017 | 2018-05-11 03:37:42 |
 | DCR | 184 | 3 | ×3 since November 1, 2017 | 2018-05-04 02:17:43 |
 | MANA | 173 | 15 | ×15 since November 1, 2017 | 2018-04-22 17:59:31 |
@@ -116,9 +122,7 @@
 | NEO | 69 | 2 | ×2 since November 1, 2017 | 2018-01-09 00:16:07 |
 | VTR | 69 | 3 | ×3 since November 1, 2017 | 2018-01-08 20:32:44 |
 | MANA | 69 | 11 | ×11 since November 1, 2017 | 2018-01-08 19:12:38 |
-| MYST | 69 | 3 | ×3 since November 1, 2017 | 2018-01-08 19:04:44 |
 | BAT | 69 | 3 | ×3 since November 1, 2017 | 2018-01-08 18:00:36 |
-| MYST | 69 | 2 | ×2 since November 1, 2017 | 2018-01-08 17:45:10 |
 | EBST | 69 | 5 | ×5 since November 1, 2017 | 2018-01-08 15:26:25 |
 | EMC | 69 | 4 | ×4 since November 1, 2017 | 2018-01-08 15:04:40 |
 | XCP | 68 | 3 | ×3 since November 1, 2017 | 2018-01-08 10:25:30 |
