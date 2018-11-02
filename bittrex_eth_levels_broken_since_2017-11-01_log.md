@@ -1,5 +1,6 @@
 | Market | Days | Multiple | Notice | Time |
 | --- | --- | --- | --- | --- |
+| BAT | 352 | 3 | ×3 since November 1, 2017 | 2018-11-02 23:29:00 |
 | MANA | 346 | 11 | ×11 since November 1, 2017 | 2018-10-28 03:01:05 |
 | BAT | 335 | 2 | ×2 since November 1, 2017 | 2018-10-17 06:18:22 |
 | XLM | 300 | 12 | ×12 since November 1, 2017 | 2018-09-12 22:53:44 |
