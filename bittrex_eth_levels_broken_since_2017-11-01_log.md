@@ -1,5 +1,7 @@
 | Market | Days | Multiple | Notice | Time |
 | --- | --- | --- | --- | --- |
+| XLM | 367 | 15 | ×15 since November 1, 2017 | 2018-11-18 12:29:48 |
+| MANA | 362 | 14 | ×14 since November 1, 2017 | 2018-11-13 17:55:58 |
 | XLM | 361 | 14 | ×14 since November 1, 2017 | 2018-11-12 12:17:17 |
 | MANA | 360 | 13 | ×13 since November 1, 2017 | 2018-11-11 04:18:54 |
 | XLM | 358 | 13 | ×13 since November 1, 2017 | 2018-11-09 01:55:14 |
