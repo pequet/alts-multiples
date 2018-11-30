@@ -1,5 +1,6 @@
 | Market | Days | Multiple | Notice | Time |
 | --- | --- | --- | --- | --- |
+| MANA | 318 | 4 | ×4 since January 1, 2018 | 2018-11-30 06:53:16 |
 | XLM | 299 | 2 | ×2 since January 1, 2018 | 2018-11-12 00:29:24 |
 | MANA | 296 | 3 | ×3 since January 1, 2018 | 2018-11-08 23:16:30 |
 | BAT | 278 | 2 | ×2 since January 1, 2018 | 2018-10-21 21:38:53 |
