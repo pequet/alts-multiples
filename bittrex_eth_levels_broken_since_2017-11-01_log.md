@@ -1,5 +1,6 @@
 | Market | Days | Multiple | Notice | Time |
 | --- | --- | --- | --- | --- |
+| MANA | 389 | 19 | ×19 since November 1, 2017 | 2018-12-10 12:16:16 |
 | MANA | 382 | 18 | ×18 since November 1, 2017 | 2018-12-03 16:37:23 |
 | MANA | 382 | 17 | ×17 since November 1, 2017 | 2018-12-03 16:37:23 |
 | MANA | 382 | 16 | ×16 since November 1, 2017 | 2018-12-03 16:37:23 |
