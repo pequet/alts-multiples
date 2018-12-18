@@ -1,5 +1,6 @@
 | Market | Days | Multiple | Notice | Time |
 | --- | --- | --- | --- | --- |
+| WAVES | 368 | 3 | ×3 since December 1, 2017 | 2018-12-18 21:29:50 |
 | MANA | 352 | 19 | ×19 since December 1, 2017 | 2018-12-03 11:35:08 |
 | MANA | 352 | 18 | ×18 since December 1, 2017 | 2018-12-03 11:35:08 |
 | MANA | 352 | 17 | ×17 since December 1, 2017 | 2018-12-03 11:35:08 |
