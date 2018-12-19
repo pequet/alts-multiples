@@ -1,5 +1,6 @@
 | Market | Days | Multiple | Notice | Time |
 | --- | --- | --- | --- | --- |
+| WAVES | 428 | 2 | ×2 since October 1, 2017 | 2018-12-19 03:23:32 |
 | XLM | 400 | 34 | ×34 since October 1, 2017 | 2018-11-19 22:32:23 |
 | XLM | 399 | 33 | ×33 since October 1, 2017 | 2018-11-19 12:04:52 |
 | XLM | 398 | 32 | ×32 since October 1, 2017 | 2018-11-18 15:01:19 |
