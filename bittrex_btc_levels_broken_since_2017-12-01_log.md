@@ -1,5 +1,6 @@
 | Market | Days | Multiple | Notice | Time |
 | --- | --- | --- | --- | --- |
+| BAT | 490 | 5 | ×5 since December 1, 2017 | 2019-04-21 01:51:15 |
 | BTS | 17 | 44 | ×44 since December 1, 2017 | 2019-01-30 01:16:19 |
 | BTS | 17 | 43 | ×43 since December 1, 2017 | 2019-01-30 01:16:19 |
 | BTS | 17 | 42 | ×42 since December 1, 2017 | 2019-01-30 01:16:19 |
