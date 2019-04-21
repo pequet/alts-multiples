@@ -1,5 +1,6 @@
 | Market | Days | Multiple | Notice | Time |
 | --- | --- | --- | --- | --- |
+| BAT | 490 | 6 | ×6 since December 1, 2017 | 2019-04-21 00:12:49 |
 | BAT | 468 | 5 | ×5 since December 1, 2017 | 2019-03-29 07:04:56 |
 | WAVES | 368 | 3 | ×3 since December 1, 2017 | 2018-12-18 21:29:50 |
 | MANA | 352 | 19 | ×19 since December 1, 2017 | 2018-12-03 11:35:08 |
